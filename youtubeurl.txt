@@ -1,0 +1,13 @@
+efficientPS
+https://www.youtube.com/watch?v=j11mvFqFmfA
+Panoptic segmentation for driving scene \ https://arxiv.org/abs/2002.07705.
+https://www.youtube.com/watch?v=cC6lR7ScecU
+Detectron2 Panoptic FPN
+https://www.youtube.com/watch?v=n8DpxwERk6A
+detectron2 panoptic segmentation
+https://www.youtube.com/watch?v=Xdpi4X5IZXc
+panoptic segmentation using detectron2
+https://www.youtube.com/watch?v=LYFiCQRA5VE
+
+EfficientPS: Efficient Panoptic Segmentation (Mission: Impossible - Fallout) 4K 60FPS
+https://www.youtube.com/watch?v=mvcNEQcxo3w
