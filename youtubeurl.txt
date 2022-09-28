@@ -11,3 +11,18 @@ https://www.youtube.com/watch?v=LYFiCQRA5VE
 
 EfficientPS: Efficient Panoptic Segmentation (Mission: Impossible - Fallout) 4K 60FPS
 https://www.youtube.com/watch?v=mvcNEQcxo3w
+
+word
+consistent video instance segmentation with inter-frame recurrent attention
+Quenzeng you
+consistent video insatnce segmentation
+Direct Association of Object Queries for Video Instance Segmentation
+sukjun hwang
+1st Place Solution for youtubeVOS Challenge 2022:video instance segmentation
+Junfeng Wu
+youtubeVOS Challenge 2022
+
+temporally consistent sS
+https://www.youtube.com/watch?v=hGrJ3zuuvRQ
+video panopticsegmatntation
+https://www.youtube.com/watch?v=AW6ZMy8TWdI
